@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Next Generation Communications en Español</title>
+    <link>https://RichterGB.github.com/NXGC/es/post/</link>
+    <description>Recent content in Post on Next Generation Communications en Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 29 Jan 2022 14:34:34 -0600</lastBuildDate><atom:link href="https://RichterGB.github.com/NXGC/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación de Nextcloud en Debian 11</title>
+      <link>https://RichterGB.github.com/NXGC/es/post/nextcloud-debian11/</link>
+      <pubDate>Sat, 29 Jan 2022 14:34:34 -0600</pubDate>
+      
+      <guid>https://RichterGB.github.com/NXGC/es/post/nextcloud-debian11/</guid>
+      <description>En este tutorial, realizaremos la instalación de Nextcloud bajo el siguiente entorno:
+ Red: Privada (local) Hardware: Raspberry Pi 4 8GB Disco Duro: Adata 2TB Sistema Operativo: Debian 11  Es posible ejecutar Nextcloud en un ordenador de uso general de bajo costo como la Raspberry Pi 4. Esta mini-computadora puede ejecutar Nextcloud aunque con ciertas limitantes causadas por el Hardware, sin embargo esto no es impedimento para su funcionalidad.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud almacenamiento en tu nube personal</title>
+      <link>https://RichterGB.github.com/NXGC/es/post/nextcloud/</link>
+      <pubDate>Sat, 29 Jan 2022 14:34:34 -0600</pubDate>
+      
+      <guid>https://RichterGB.github.com/NXGC/es/post/nextcloud/</guid>
+      <description>Nextcloud es una de estas aplicaciones colaborativas que son de gran utilidad para compartir, almacenar y manejar sus archivos. Este servicio está disponible para su uso personal o público.
+Al ser un servicio versatil, se adapta facilmente a cualqueir sistema operativo, lo puedes encontrar como aplicación para sistemas Windows, macOS y Linux, así como para dispositivos Android y iOS.
+Para agregar más servicios a las ya poderosas capacidades de intercambio de archivos de Nextcloud, existe la opción de agregar una gran cantidad de complementos especialmente diseñado para este servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

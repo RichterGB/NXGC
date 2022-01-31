@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Next Generation Communications</title>
+    <link>https://RichterGB.github.com/NXGC/post/</link>
+    <description>Recent content in Post on Next Generation Communications</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jan 2022 14:34:34 -0600</lastBuildDate><atom:link href="https://RichterGB.github.com/NXGC/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instal Nextcloud on Raspberry Pi 4 with Debian11</title>
+      <link>https://RichterGB.github.com/NXGC/post/raspberry-debian11-nextcloud/</link>
+      <pubDate>Sat, 29 Jan 2022 14:34:34 -0600</pubDate>
+      
+      <guid>https://RichterGB.github.com/NXGC/post/raspberry-debian11-nextcloud/</guid>
+      <description>New Nextcloud deployment:   Nextcloud
+ Update Debian 11   # update &amp;amp;&amp;amp; upgrade  Set an static IP address   # vi /etc/network/interfaces.d/eth0 Use the following configuration auto eth0 # iface eth0 inet dhcp # iface eth0 inet6 auto iface eth0 inet static address 192.168.1.40 netmask 255.255.255.0 gateway 192.168.1.254 dns-nameserver 200.67.220.220 dns-nameserver 200.67.222.222  Resizing Filesystem  # resize2fs /dev/sda2    Install the following tools   # apt install wget ntp bzip2 htop tcpdump PHP 8 Sources: # wget -O /etc/apt/trusted.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud your personal cloud storage</title>
+      <link>https://RichterGB.github.com/NXGC/post/nextcloud/</link>
+      <pubDate>Sat, 29 Jan 2022 14:34:34 -0600</pubDate>
+      
+      <guid>https://RichterGB.github.com/NXGC/post/nextcloud/</guid>
+      <description>New Nextcloud deployment:  I&amp;rsquo;ve been using linux to deploy open source and licensed software for more than 10 years, delivering software solutions for companies that offer IPTV, banking and mobile communications services.
+Una de las cosas que realmente disfruto al trabajar con linux, es el gran número de aplicaciones y servicios que tienes a tu disposición para uso personal y empresarial.
+Nextcloud es una de estas aplicaciones colaborativas que son de gran utilidad para compartir, almacenar y manejar sus archivos.</description>
+    </item>
+    
+  </channel>
+</rss>
